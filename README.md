@@ -2,10 +2,20 @@
 
 ## Welcome to Movie Quiz.
 
-This is an App made as part of my final Group Project as a Student in Coddaiseur Coding BootCamp.
-This is a project made in 4 days from scratch using no templates or previous code.
+The Movie Quiz is an app which generates randomized movie trivia quizes using data from a movie database API.
+
+[Click here to play!](https://moviequizgame.netlify.app/)
+
+This project was completed in a group with Alina Kovaleva, Tom Collins, and Vasileios Bomponis.
+
+This is an App made as part of my final Group Project as a Student in Coddaiseur Coding BootCamp. This project made in 4 days from scratch using no templates or previous code.
+
+This is a full stack app which includes a [back-end](https://github.com/poojadalai/quizApp-backend), however it is very basic consisting only of routes to view the scoreboard and post high scores.
 
 ---
+
+<!-- ## My contribution
+I have implemented and designed the main question page with the animation and also setting up the backend. -->
 
 ## The idea behind the Movie Quiz.
 
@@ -41,20 +51,12 @@ I know that from experience and since now i have the tools i took the liberty to
 
 ## App Quick OverView
 
+- A quiz consists of 3 rounds of 4 questions.
+- The question category out of the 4 possible categories is chosen by spinning a wheel at the start of each round.
+- The player has 10 seconds to answer the question.
+- Once the player has either answered a question or run out of time the corrent and incorrect answers are shown by an animatiion.
+- At the end of the game, the player can post their score and view it on the scoreboard.
+
 ![App demo](./assets/Screen%20Recording%202022-05-10%20at%2012.gif)
 
 ---
-
-## Backend server repo
-
-The backend side of this project is an Express server using Sequelize. [Click here for more details]()
-
----
-
-## Wrapping it up
-
-**A final overview...:**
-
-- 💬 Ask me about anything about the project, I am happy to chat with people or even colaborate.
-- 📫 How to reach me: [vasileios.bobonis@gmail.com](https://www.linkedin.com/in/vasileios-bomponis-a20673121/);
-- 📝 That is my : [LinkedIn](https://www.linkedin.com/in/vasileios-bomponis-a20673121/)
